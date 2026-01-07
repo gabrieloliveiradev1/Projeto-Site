@@ -13,6 +13,6 @@
 "zenMode.showTabs": "single",
 "git.enableSmartCommit": true,
 "liveServer.settings.donotShowInfoMsg": true,
-"git.confirmSync": false
+"git.confirmSync": false,
 
 }
